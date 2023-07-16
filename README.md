@@ -1,13 +1,13 @@
 <div>
 <h3 align="center">🏎  I'm guanjucanying  🚩</h3>
 
-
+![image](https://github.com/guanjucanying/guanjucanying/blob/main/img/car1.jpg)
 
 <p align="center">
 	<a>
-      		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=天生我材必有用;实践是检验真理的唯一标准&center=true&size=27" 		alt="Typing SVG"/></a>
+      		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF020267&width=435&lines=天生我材必有用;实践是检验真理的唯一标准&center=true&size=27" alt="Typing SVG"/></a>
 </p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF020267&center=%E9%94%99%E8%AF%AF%E7%9A%84&vCenter=%E9%94%99%E8%AF%AF%E7%9A%84&repeat=%E7%9C%9F%E7%9A%84&width=435&lines=The+five+boxing+wizards+jump+quickly" alt="Typing SVG" /></a>
+
 
 
 ### 🏆 Profile Trophy
