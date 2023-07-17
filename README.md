@@ -24,10 +24,10 @@
         <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" width="40" height="40" />
     </a>
     <a href="https://html.com/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="kotlin" width="40" height="40" />
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="60" height="40" />
     </a>
     <a href="https://www.w3school.com.cn/css/index.asp" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="40" height="40" />
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="60" height="40" />
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
@@ -52,22 +52,22 @@
 
 <div align="center">
     <a href="hexo.io/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="hexo" width="40" height="40"/>
+        <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" alt="hexo" width="60" height="40"/>
     </a>
     <a href="https://www.google.com.hk/?hl=zh-cn" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="Chrome" width="40" height="40" />
+        <img src="https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white" alt="Chrome" width="60" height="40" />
     </a>
     <a href="https://www.huawei.com/cn/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white" alt="huawei" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white" alt="huawei" width="60" height="40" />
     </a>
     <a href="https://activity.lenovo.com.cn/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" alt="materialize" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Lenovo-E2231A?logo=lenovo&logoColor=fff&style=flat" alt="materialize" width="60" height="40" />
     </a>
     <a href="https://ps.gjx91.cn/" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat" alt="intellij idea" width="40" height="40" />
+        <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat" alt="intellij idea" width="60" height="40" />
     </a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="60" height="40" />
     </a>
 </div>
 
